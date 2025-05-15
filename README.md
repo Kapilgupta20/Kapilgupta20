@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Kapil Gupta 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🎓 B.Tech CSE @ IIIT Kota | 🤖 ML Enthusiast <br>
-  📧 guptakapil004@gmail.com | 📱 +91-8871697976
+  💻 Software Developer | 🎓 B.Tech CSE @ IIIT Kota | 🤖 ML Enthusiast <br>
 </p>
 
 ---
@@ -12,7 +11,7 @@
 - 🎓 Pursuing B.Tech in Computer Science & Engineering at IIIT Kota (2022–26)  
 - 💡 Passionate about building scalable full-stack web applications and exploring machine learning  
 - 🧠 Solved 400+ DSA problems across platforms (primarily on LeetCode)  
-- 🏅 **Grand Finalist** at **Smart India Hackathon 2024** – Top 6 nationally (PSID: SIH1640, Team Nirvana)  
+- 🏅 **Grand Finalist** at **Smart India Hackathon 2024** – Among top 6 across nation (PSID: SIH1640, Team Nirvana)  
 - ⚡ Always curious to learn new tech and contribute to impactful projects
 
 ---
@@ -24,38 +23,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,sass,nodejs,express" /><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br><br>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikit-learn,tensorflow,keras" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=github,docker,linux,postman,vscode,jupyter" />
 </div>
 
 ---
 
-### 📌 Projects
-
-#### 🌾 KisanMitra  
-> *React.js • Tailwind CSS • Node.js • Express.js • MongoDB*
-- Developed a full-stack agri-marketplace platform connecting farmers and buyers  
-- Built a JWT-secured backend with role-based access & contract management  
-- Collaborated in a 6-member team using Agile (Scrum) methodology
-
-#### 📈 StockSage  
-> *Python • TensorFlow • Streamlit*
-- Built an LSTM-based model for stock price prediction (R² > 90%)  
-- Designed a Streamlit interface for live predictions and stock analysis
-
-#### 🎬 MovieFlix  
-> *React.js • Vite • Sass*
-- Created a dynamic movie discovery app with infinite scroll and smooth UI interactions  
-- Integrated third-party APIs for real-time movie data
-
----
-
-### 🏆 Achievements
-
-- ✅ Solved **400+ DSA problems** on platforms like LeetCode  
-- 🏅 **Smart India Hackathon 2024 Grand Finalist** – Top 6 solution for national problem statement  
-- 🔍 Keen interest in Data Analysis, Web Apps, and Scalable System Design
-
----
 
 ### 📫 Let's Connect
 
