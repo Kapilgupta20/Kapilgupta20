@@ -19,8 +19,8 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" /><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,sass,nodejs,express" /><br><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vite,nodejs,express" /><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br><br>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikit-learn,tensorflow,keras" /><br><br>
   <img src="https://skillicons.dev/icons?i=github,docker,linux,postman,vscode,jupyter" />
@@ -28,13 +28,11 @@
 
 ---
 
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:guptakapil004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
-  <a href="https://leetcode.com/your-leetcode-profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-  <a href="https://x.com/your-twitter-handle"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=twitter&logoColor=white"/></a>
+  [Gmail](mailto:guptakapil004@gmail.com)
+  [LinkedIn](https://linkedin.com/in/your-linkedin)
+  [LeetCode](https://leetcode.com/your-leetcode-profile)
+  [X](https://x.com/your-twitter-handle)
 </p>
