@@ -28,9 +28,14 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="48"/>
 
 **Data Science & ML**  
-<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow,keras" height="48"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
+</div>
 
 **DevOps & Tools**  
 <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode,github" height="48"/>
