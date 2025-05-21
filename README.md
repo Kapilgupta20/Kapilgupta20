@@ -19,16 +19,19 @@
 ### 🛠️ My Tech Stack
 
 **Languages**  
-
+<div>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" height="48"/>
+</div>
 
 **Frontend & Backend**  
-
+<div>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vite,nodejs,expressjs" height="48"/>
+</div>
 
 **Databases**  
-
+<div>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="48"/>
+</div>
 
 **Data Science & ML**  
 <div>
@@ -38,12 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
-
 </div>
 
 **DevOps & Tools**  
-
+<div>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,vscode,github" height="48"/>
+</div>
 
 ---
 
